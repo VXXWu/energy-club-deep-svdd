@@ -1,0 +1,362 @@
+2025-11-19 10:09:55,650 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:09:55,650 - root - INFO - Data path is data/hai.
+2025-11-19 10:09:55,650 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:09:55,650 - root - INFO - Dataset: hai
+2025-11-19 10:09:55,650 - root - INFO - Normal class: 0
+2025-11-19 10:09:55,650 - root - INFO - Network: hai_mlp
+2025-11-19 10:09:55,650 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:09:55,650 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:09:55,650 - root - INFO - Computation device: cpu
+2025-11-19 10:09:55,650 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:10:27,089 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:10:27,089 - root - INFO - Data path is data/hai.
+2025-11-19 10:10:27,089 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:10:27,089 - root - INFO - Dataset: hai
+2025-11-19 10:10:27,089 - root - INFO - Normal class: 0
+2025-11-19 10:10:27,089 - root - INFO - Network: hai_mlp
+2025-11-19 10:10:27,089 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:10:27,089 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:10:27,089 - root - INFO - Computation device: cpu
+2025-11-19 10:10:27,089 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:10:39,818 - root - INFO - Pretraining: True
+2025-11-19 10:10:39,841 - root - INFO - Pretraining optimizer: adam
+2025-11-19 10:10:39,841 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-19 10:10:39,841 - root - INFO - Pretraining epochs: 50
+2025-11-19 10:10:39,842 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-19 10:10:39,842 - root - INFO - Pretraining batch size: 64
+2025-11-19 10:10:39,842 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-19 10:11:35,725 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:11:35,725 - root - INFO - Data path is data/hai.
+2025-11-19 10:11:35,725 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:11:35,725 - root - INFO - Dataset: hai
+2025-11-19 10:11:35,725 - root - INFO - Normal class: 0
+2025-11-19 10:11:35,725 - root - INFO - Network: hai_mlp
+2025-11-19 10:11:35,725 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:11:35,725 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:11:35,725 - root - INFO - Computation device: cpu
+2025-11-19 10:11:35,725 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:11:51,737 - root - INFO - Pretraining: True
+2025-11-19 10:11:51,744 - root - INFO - Pretraining optimizer: adam
+2025-11-19 10:11:51,744 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-19 10:11:51,744 - root - INFO - Pretraining epochs: 50
+2025-11-19 10:11:51,744 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-19 10:11:51,744 - root - INFO - Pretraining batch size: 64
+2025-11-19 10:11:51,744 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-19 10:11:51,792 - root - INFO - Starting pretraining...
+2025-11-19 10:12:26,461 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:12:26,461 - root - INFO - Data path is data/hai.
+2025-11-19 10:12:26,461 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:12:26,461 - root - INFO - Dataset: hai
+2025-11-19 10:12:26,461 - root - INFO - Normal class: 0
+2025-11-19 10:12:26,461 - root - INFO - Network: hai_mlp
+2025-11-19 10:12:26,461 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:12:26,461 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:12:26,461 - root - INFO - Computation device: cpu
+2025-11-19 10:12:26,461 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:12:42,691 - root - INFO - Pretraining: True
+2025-11-19 10:12:42,703 - root - INFO - Pretraining optimizer: adam
+2025-11-19 10:12:42,703 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-19 10:12:42,703 - root - INFO - Pretraining epochs: 50
+2025-11-19 10:12:42,703 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-19 10:12:42,703 - root - INFO - Pretraining batch size: 64
+2025-11-19 10:12:42,703 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-19 10:12:42,765 - root - INFO - Starting pretraining...
+2025-11-19 10:12:47,446 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:12:47,446 - root - INFO - Data path is data/hai.
+2025-11-19 10:12:47,446 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:12:47,446 - root - INFO - Dataset: hai
+2025-11-19 10:12:47,446 - root - INFO - Normal class: 0
+2025-11-19 10:12:47,446 - root - INFO - Network: hai_mlp
+2025-11-19 10:12:47,446 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:12:47,446 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:12:47,446 - root - INFO - Computation device: cpu
+2025-11-19 10:12:47,446 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:13:03,892 - root - INFO - Pretraining: True
+2025-11-19 10:13:03,902 - root - INFO - Pretraining optimizer: adam
+2025-11-19 10:13:03,902 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-19 10:13:03,902 - root - INFO - Pretraining epochs: 50
+2025-11-19 10:13:03,902 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-19 10:13:03,902 - root - INFO - Pretraining batch size: 64
+2025-11-19 10:13:03,902 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-19 10:13:03,979 - root - INFO - Starting pretraining...
+2025-11-19 10:13:37,721 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:13:37,721 - root - INFO - Data path is data/hai.
+2025-11-19 10:13:37,721 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:13:37,721 - root - INFO - Dataset: hai
+2025-11-19 10:13:37,721 - root - INFO - Normal class: 0
+2025-11-19 10:13:37,721 - root - INFO - Network: hai_mlp
+2025-11-19 10:13:37,721 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:13:37,721 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:13:37,721 - root - INFO - Computation device: cpu
+2025-11-19 10:13:37,721 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:13:54,266 - root - INFO - Pretraining: True
+2025-11-19 10:13:54,277 - root - INFO - Pretraining optimizer: adam
+2025-11-19 10:13:54,278 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-19 10:13:54,278 - root - INFO - Pretraining epochs: 50
+2025-11-19 10:13:54,278 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-19 10:13:54,278 - root - INFO - Pretraining batch size: 64
+2025-11-19 10:13:54,278 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-19 10:13:54,377 - root - INFO - Starting pretraining...
+2025-11-19 10:14:34,357 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-19 10:14:34,357 - root - INFO - Data path is data/hai.
+2025-11-19 10:14:34,357 - root - INFO - Export path is log/hai_test.
+2025-11-19 10:14:34,357 - root - INFO - Dataset: hai
+2025-11-19 10:14:34,357 - root - INFO - Normal class: 0
+2025-11-19 10:14:34,357 - root - INFO - Network: hai_mlp
+2025-11-19 10:14:34,357 - root - INFO - Deep SVDD objective: one-class
+2025-11-19 10:14:34,357 - root - INFO - Nu-paramerter: 0.10
+2025-11-19 10:14:34,357 - root - INFO - Computation device: cpu
+2025-11-19 10:14:34,357 - root - INFO - Number of dataloader workers: 0
+2025-11-19 10:14:51,298 - root - INFO - Pretraining: True
+2025-11-19 10:14:51,299 - root - INFO - Pretraining optimizer: adam
+2025-11-19 10:14:51,299 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-19 10:14:51,299 - root - INFO - Pretraining epochs: 50
+2025-11-19 10:14:51,299 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-19 10:14:51,299 - root - INFO - Pretraining batch size: 64
+2025-11-19 10:14:51,299 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-19 10:14:51,322 - root - INFO - Starting pretraining...
+2025-11-19 10:23:12,395 - root - INFO -   Epoch 1/50	 Time: 501.068	 Loss: 20.36536667
+2025-11-19 10:32:29,151 - root - INFO -   Epoch 2/50	 Time: 556.748	 Loss: 9.17829419
+2025-11-19 10:41:52,966 - root - INFO -   Epoch 3/50	 Time: 563.809	 Loss: 7.64366813
+2025-11-19 10:51:23,157 - root - INFO -   Epoch 4/50	 Time: 570.187	 Loss: 6.80430613
+2025-11-19 11:00:56,270 - root - INFO -   Epoch 5/50	 Time: 573.107	 Loss: 6.29024441
+2025-11-19 11:10:18,210 - root - INFO -   Epoch 6/50	 Time: 561.936	 Loss: 5.93713013
+2025-11-19 11:19:21,861 - root - INFO -   Epoch 7/50	 Time: 543.645	 Loss: 5.70732197
+2025-11-19 11:28:04,157 - root - INFO -   Epoch 8/50	 Time: 522.290	 Loss: 5.52614279
+2025-11-19 11:37:28,102 - root - INFO -   Epoch 9/50	 Time: 563.939	 Loss: 5.37607918
+2025-11-19 11:46:33,956 - root - INFO -   Epoch 10/50	 Time: 545.848	 Loss: 5.25363029
+2025-11-19 11:55:32,281 - root - INFO -   Epoch 11/50	 Time: 538.320	 Loss: 5.14154015
+2025-11-19 12:04:24,154 - root - INFO -   Epoch 12/50	 Time: 531.868	 Loss: 5.04858794
+2025-11-19 12:13:08,510 - root - INFO -   Epoch 13/50	 Time: 524.352	 Loss: 4.97703675
+2025-11-19 12:58:29,802 - root - INFO -   Epoch 14/50	 Time: 2721.285	 Loss: 4.90347226
+2025-11-19 13:20:14,534 - root - INFO -   Epoch 15/50	 Time: 1304.725	 Loss: 4.84105780
+2025-11-19 13:28:59,962 - root - INFO -   Epoch 16/50	 Time: 525.423	 Loss: 4.78750625
+2025-11-19 13:54:24,819 - root - INFO -   Epoch 17/50	 Time: 1524.853	 Loss: 4.72989977
+2025-11-19 14:27:47,990 - root - INFO -   Epoch 18/50	 Time: 2003.166	 Loss: 4.67801852
+2025-11-19 14:36:35,045 - root - INFO -   Epoch 19/50	 Time: 527.049	 Loss: 4.64230892
+2025-11-19 14:45:14,273 - root - INFO -   Epoch 20/50	 Time: 519.220	 Loss: 4.43024552
+2025-11-19 14:45:14,281 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2025-11-19 14:54:00,450 - root - INFO -   Epoch 21/50	 Time: 526.168	 Loss: 4.40625403
+2025-11-19 15:04:09,949 - root - INFO -   Epoch 22/50	 Time: 609.493	 Loss: 4.40728164
+2025-11-19 15:13:17,316 - root - INFO -   Epoch 23/50	 Time: 547.361	 Loss: 4.39887245
+2025-11-19 15:22:29,984 - root - INFO -   Epoch 24/50	 Time: 552.663	 Loss: 4.38204176
+2025-11-19 15:36:49,888 - root - INFO -   Epoch 25/50	 Time: 859.893	 Loss: 4.38148530
+2025-11-19 15:45:51,145 - root - INFO -   Epoch 26/50	 Time: 541.226	 Loss: 4.37401519
+2025-11-19 15:54:48,939 - root - INFO -   Epoch 27/50	 Time: 537.786	 Loss: 4.36787379
+2025-11-19 16:03:40,357 - root - INFO -   Epoch 28/50	 Time: 531.413	 Loss: 4.36784426
+2025-11-19 16:14:30,084 - root - INFO -   Epoch 29/50	 Time: 649.720	 Loss: 4.35701458
+2025-11-19 16:48:51,019 - root - INFO -   Epoch 30/50	 Time: 2060.931	 Loss: 4.35813780
+2025-11-19 17:14:01,065 - root - INFO -   Epoch 31/50	 Time: 1510.041	 Loss: 4.35010180
+2025-11-19 17:22:57,708 - root - INFO -   Epoch 32/50	 Time: 536.640	 Loss: 4.34406027
+2025-11-19 17:38:09,848 - root - INFO -   Epoch 33/50	 Time: 912.134	 Loss: 4.33983429
+2025-11-19 18:06:27,285 - root - INFO -   Epoch 34/50	 Time: 1697.433	 Loss: 4.34031502
+2025-11-19 18:36:38,778 - root - INFO -   Epoch 35/50	 Time: 1811.488	 Loss: 4.33412137
+2025-11-19 19:02:59,427 - root - INFO -   Epoch 36/50	 Time: 1580.644	 Loss: 4.32767439
+2025-11-19 19:26:39,282 - root - INFO -   Epoch 37/50	 Time: 1419.847	 Loss: 4.33223844
+2025-11-19 19:35:21,145 - root - INFO -   Epoch 38/50	 Time: 521.857	 Loss: 4.31869076
+2025-11-19 19:44:05,244 - root - INFO -   Epoch 39/50	 Time: 524.094	 Loss: 4.31739781
+2025-11-19 19:52:48,299 - root - INFO -   Epoch 40/50	 Time: 523.050	 Loss: 4.32218814
+2025-11-19 20:01:32,463 - root - INFO -   Epoch 41/50	 Time: 524.160	 Loss: 4.31055959
+2025-11-19 20:10:14,832 - root - INFO -   Epoch 42/50	 Time: 522.363	 Loss: 4.30430579
+2025-11-19 20:19:02,092 - root - INFO -   Epoch 43/50	 Time: 527.253	 Loss: 4.29985161
+2025-11-19 20:27:37,127 - root - INFO -   Epoch 44/50	 Time: 515.024	 Loss: 4.29891341
+2025-11-19 20:36:14,575 - root - INFO -   Epoch 45/50	 Time: 517.443	 Loss: 4.30179045
+2025-11-19 20:44:52,117 - root - INFO -   Epoch 46/50	 Time: 517.537	 Loss: 4.29554876
+2025-11-19 20:53:34,151 - root - INFO -   Epoch 47/50	 Time: 522.029	 Loss: 4.28858951
+2025-11-19 21:02:20,082 - root - INFO -   Epoch 48/50	 Time: 525.925	 Loss: 4.28772386
+2025-11-19 21:11:55,391 - root - INFO -   Epoch 49/50	 Time: 575.305	 Loss: 4.28706100
+2025-11-19 21:21:33,674 - root - INFO -   Epoch 50/50	 Time: 578.276	 Loss: 4.27909460
+2025-11-19 21:21:33,677 - root - INFO - Pretraining time: 40002.355
+2025-11-19 21:21:33,677 - root - INFO - Finished pretraining.
+2025-11-19 21:21:33,698 - root - INFO - Testing autoencoder...
+2025-11-19 21:22:37,373 - root - INFO - Test set Loss: 147.58238211
+2025-11-19 21:22:37,524 - root - INFO - Test set AUC: 62.36%
+2025-11-19 21:22:37,524 - root - INFO - Autoencoder testing time: 63.826
+2025-11-19 21:22:37,524 - root - INFO - Finished testing autoencoder.
+2025-11-19 21:22:37,546 - root - INFO - Training optimizer: adam
+2025-11-19 21:22:37,546 - root - INFO - Training learning rate: 0.0001
+2025-11-19 21:22:37,546 - root - INFO - Training epochs: 50
+2025-11-19 21:22:37,546 - root - INFO - Training learning rate scheduler milestones: (20,)
+2025-11-19 21:22:37,546 - root - INFO - Training batch size: 64
+2025-11-19 21:22:37,546 - root - INFO - Training weight decay: 5e-07
+2025-11-19 21:22:37,552 - root - INFO - Initializing center c...
+2025-11-19 21:30:56,684 - root - INFO - Center c initialized.
+2025-11-19 21:30:56,691 - root - INFO - Starting training...
+2025-11-19 21:39:18,020 - root - INFO -   Epoch 1/50	 Time: 501.259	 Loss: 0.07439978
+2025-11-19 21:47:08,280 - root - INFO -   Epoch 2/50	 Time: 470.249	 Loss: 0.00089220
+2025-11-19 21:55:08,714 - root - INFO -   Epoch 3/50	 Time: 480.427	 Loss: 0.00050686
+2025-11-19 22:02:50,055 - root - INFO -   Epoch 4/50	 Time: 461.336	 Loss: 0.00038556
+2025-11-19 22:10:28,137 - root - INFO -   Epoch 5/50	 Time: 458.074	 Loss: 0.00031959
+2025-11-19 22:18:05,583 - root - INFO -   Epoch 6/50	 Time: 457.441	 Loss: 0.00028185
+2025-11-19 22:25:38,083 - root - INFO -   Epoch 7/50	 Time: 452.496	 Loss: 0.00026239
+2025-11-19 22:33:35,552 - root - INFO -   Epoch 8/50	 Time: 477.462	 Loss: 0.00024236
+2025-11-19 22:41:22,199 - root - INFO -   Epoch 9/50	 Time: 466.643	 Loss: 0.00022006
+2025-11-19 22:49:06,707 - root - INFO -   Epoch 10/50	 Time: 464.503	 Loss: 0.00021148
+2025-11-19 22:56:57,574 - root - INFO -   Epoch 11/50	 Time: 470.863	 Loss: 0.00020300
+2025-11-19 23:05:00,967 - root - INFO -   Epoch 12/50	 Time: 483.388	 Loss: 0.00019295
+2025-11-19 23:12:24,348 - root - INFO -   Epoch 13/50	 Time: 443.377	 Loss: 0.00020285
+2025-11-19 23:19:56,298 - root - INFO -   Epoch 14/50	 Time: 451.945	 Loss: 0.00019252
+2025-11-19 23:27:37,498 - root - INFO -   Epoch 15/50	 Time: 461.196	 Loss: 0.00020986
+2025-11-19 23:35:18,605 - root - INFO -   Epoch 16/50	 Time: 461.101	 Loss: 0.00023566
+2025-11-19 23:42:56,806 - root - INFO -   Epoch 17/50	 Time: 458.197	 Loss: 0.00018804
+2025-11-19 23:50:21,485 - root - INFO -   Epoch 18/50	 Time: 444.674	 Loss: 0.00017737
+2025-11-19 23:57:41,674 - root - INFO -   Epoch 19/50	 Time: 440.185	 Loss: 0.00017745
+2025-11-20 00:04:33,188 - root - INFO -   Epoch 20/50	 Time: 411.510	 Loss: 0.00004874
+2025-11-20 00:04:33,196 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2025-11-20 00:11:30,766 - root - INFO -   Epoch 21/50	 Time: 417.568	 Loss: 0.00004496
+2025-11-20 01:01:28,612 - root - INFO -   Epoch 22/50	 Time: 2997.840	 Loss: 0.00004465
+2025-11-20 02:04:49,391 - root - INFO -   Epoch 23/50	 Time: 3800.775	 Loss: 0.00004277
+2025-11-20 02:13:47,279 - root - INFO -   Epoch 24/50	 Time: 537.885	 Loss: 0.00003986
+2025-11-20 02:20:43,591 - root - INFO -   Epoch 25/50	 Time: 416.307	 Loss: 0.00004116
+2025-11-20 02:27:34,306 - root - INFO -   Epoch 26/50	 Time: 410.708	 Loss: 0.00003772
+2025-11-20 02:34:25,734 - root - INFO -   Epoch 27/50	 Time: 411.424	 Loss: 0.00003881
+2025-11-20 02:41:12,865 - root - INFO -   Epoch 28/50	 Time: 407.126	 Loss: 0.00004631
+2025-11-20 02:48:07,395 - root - INFO -   Epoch 29/50	 Time: 414.525	 Loss: 0.00004103
+2025-11-20 02:55:15,568 - root - INFO -   Epoch 30/50	 Time: 428.169	 Loss: 0.00003911
+2025-11-20 03:02:12,732 - root - INFO -   Epoch 31/50	 Time: 417.160	 Loss: 0.00003934
+2025-11-20 03:09:08,591 - root - INFO -   Epoch 32/50	 Time: 415.854	 Loss: 0.00004902
+2025-11-20 03:36:58,047 - root - INFO -   Epoch 33/50	 Time: 1669.452	 Loss: 0.00003737
+2025-11-20 03:43:57,848 - root - INFO -   Epoch 34/50	 Time: 419.797	 Loss: 0.00003885
+2025-11-20 03:50:55,838 - root - INFO -   Epoch 35/50	 Time: 417.984	 Loss: 0.00003689
+2025-11-20 03:57:57,744 - root - INFO -   Epoch 36/50	 Time: 421.898	 Loss: 0.00003509
+2025-11-20 04:04:55,732 - root - INFO -   Epoch 37/50	 Time: 417.984	 Loss: 0.00003530
+2025-11-20 04:11:57,710 - root - INFO -   Epoch 38/50	 Time: 421.974	 Loss: 0.00005153
+2025-11-20 04:18:55,501 - root - INFO -   Epoch 39/50	 Time: 417.784	 Loss: 0.00011641
+2025-11-20 04:25:54,524 - root - INFO -   Epoch 40/50	 Time: 419.019	 Loss: 0.00003480
+2025-11-20 04:32:54,988 - root - INFO -   Epoch 41/50	 Time: 420.459	 Loss: 0.00004219
+2025-11-20 04:39:52,528 - root - INFO -   Epoch 42/50	 Time: 417.536	 Loss: 0.00007811
+2025-11-20 04:46:47,515 - root - INFO -   Epoch 43/50	 Time: 414.982	 Loss: 0.00005021
+2025-11-20 04:53:41,959 - root - INFO -   Epoch 44/50	 Time: 414.441	 Loss: 0.00003879
+2025-11-20 05:00:39,346 - root - INFO -   Epoch 45/50	 Time: 417.383	 Loss: 0.00003535
+2025-11-20 05:07:41,941 - root - INFO -   Epoch 46/50	 Time: 422.591	 Loss: 0.00003258
+2025-11-20 05:14:39,562 - root - INFO -   Epoch 47/50	 Time: 417.613	 Loss: 0.00003399
+2025-11-20 05:21:27,490 - root - INFO -   Epoch 48/50	 Time: 407.925	 Loss: 0.00003344
+2025-11-20 05:28:19,327 - root - INFO -   Epoch 49/50	 Time: 411.833	 Loss: 0.00003288
+2025-11-20 05:35:09,594 - root - INFO -   Epoch 50/50	 Time: 410.262	 Loss: 0.00003060
+2025-11-20 05:35:09,597 - root - INFO - Training time: 29052.906
+2025-11-20 05:35:09,597 - root - INFO - Finished training.
+2025-11-20 05:35:09,612 - root - INFO - Starting testing...
+2025-11-20 05:36:10,982 - root - INFO - Testing time: 61.370
+2025-11-20 05:36:11,179 - root - INFO - Test set AUC: 46.99%
+2025-11-20 05:36:11,179 - root - INFO - Finished testing.
+2025-11-20 13:41:02,354 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-20 13:41:02,354 - root - INFO - Data path is data/hai.
+2025-11-20 13:41:02,354 - root - INFO - Export path is log/hai_test.
+2025-11-20 13:41:02,354 - root - INFO - Dataset: hai
+2025-11-20 13:41:02,354 - root - INFO - Normal class: 0
+2025-11-20 13:41:02,354 - root - INFO - Network: hai_mlp
+2025-11-20 13:41:02,354 - root - INFO - Deep SVDD objective: one-class
+2025-11-20 13:41:02,354 - root - INFO - Nu-paramerter: 0.10
+2025-11-20 13:41:02,355 - root - INFO - Computation device: cpu
+2025-11-20 13:41:02,355 - root - INFO - Number of dataloader workers: 0
+2025-11-20 13:41:18,852 - root - INFO - Pretraining: True
+2025-11-20 13:41:18,858 - root - INFO - Pretraining optimizer: adam
+2025-11-20 13:41:18,858 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-20 13:41:18,858 - root - INFO - Pretraining epochs: 50
+2025-11-20 13:41:18,858 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-20 13:41:18,858 - root - INFO - Pretraining batch size: 64
+2025-11-20 13:41:18,858 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-20 13:41:18,937 - root - INFO - Starting pretraining...
+2025-11-20 13:49:00,538 - root - INFO -   Epoch 1/50	 Time: 461.593	 Loss: 20.47012249
+2025-11-20 13:52:52,293 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-20 13:52:52,293 - root - INFO - Data path is data/hai.
+2025-11-20 13:52:52,293 - root - INFO - Export path is log/hai_test.
+2025-11-20 13:52:52,293 - root - INFO - Dataset: hai
+2025-11-20 13:52:52,293 - root - INFO - Normal class: 0
+2025-11-20 13:52:52,293 - root - INFO - Network: hai_mlp
+2025-11-20 13:52:52,293 - root - INFO - Deep SVDD objective: one-class
+2025-11-20 13:52:52,293 - root - INFO - Nu-paramerter: 0.10
+2025-11-20 13:52:52,313 - root - INFO - Computation device: mps
+2025-11-20 13:52:52,313 - root - INFO - Number of dataloader workers: 0
+2025-11-20 14:24:09,402 - root - INFO - Log file is log/hai_test/log.txt.
+2025-11-20 14:24:09,402 - root - INFO - Data path is data/hai.
+2025-11-20 14:24:09,402 - root - INFO - Export path is log/hai_test.
+2025-11-20 14:24:09,402 - root - INFO - Dataset: hai
+2025-11-20 14:24:09,402 - root - INFO - Normal class: 0
+2025-11-20 14:24:09,402 - root - INFO - Network: hai_mlp
+2025-11-20 14:24:09,402 - root - INFO - Deep SVDD objective: one-class
+2025-11-20 14:24:09,402 - root - INFO - Nu-paramerter: 0.10
+2025-11-20 14:24:09,419 - root - INFO - Computation device: mps
+2025-11-20 14:24:09,419 - root - INFO - Number of dataloader workers: 0
+2025-11-20 14:24:13,776 - root - INFO - Pretraining: True
+2025-11-20 14:24:13,776 - root - INFO - Pretraining optimizer: adam
+2025-11-20 14:24:13,776 - root - INFO - Pretraining learning rate: 0.0001
+2025-11-20 14:24:13,776 - root - INFO - Pretraining epochs: 25
+2025-11-20 14:24:13,776 - root - INFO - Pretraining learning rate scheduler milestones: (20,)
+2025-11-20 14:24:13,776 - root - INFO - Pretraining batch size: 64
+2025-11-20 14:24:13,776 - root - INFO - Pretraining weight decay: 5e-07
+2025-11-20 14:24:13,826 - root - INFO - Starting pretraining...
+2025-11-20 14:25:17,311 - root - INFO -   Epoch 1/25	 Time: 63.484	 Loss: 20.30941189
+2025-11-20 14:26:14,309 - root - INFO -   Epoch 2/25	 Time: 56.998	 Loss: 9.18097006
+2025-11-20 14:27:09,846 - root - INFO -   Epoch 3/25	 Time: 55.536	 Loss: 7.75743680
+2025-11-20 14:28:05,133 - root - INFO -   Epoch 4/25	 Time: 55.287	 Loss: 6.91143318
+2025-11-20 14:29:02,001 - root - INFO -   Epoch 5/25	 Time: 56.868	 Loss: 6.37176475
+2025-11-20 14:29:57,454 - root - INFO -   Epoch 6/25	 Time: 55.452	 Loss: 6.03935449
+2025-11-20 14:30:53,329 - root - INFO -   Epoch 7/25	 Time: 55.876	 Loss: 5.79199687
+2025-11-20 14:31:48,752 - root - INFO -   Epoch 8/25	 Time: 55.422	 Loss: 5.60049636
+2025-11-20 14:32:45,676 - root - INFO -   Epoch 9/25	 Time: 56.924	 Loss: 5.44664188
+2025-11-20 14:33:42,546 - root - INFO -   Epoch 10/25	 Time: 56.870	 Loss: 5.33078763
+2025-11-20 14:34:38,564 - root - INFO -   Epoch 11/25	 Time: 56.017	 Loss: 5.22285734
+2025-11-20 14:35:34,376 - root - INFO -   Epoch 12/25	 Time: 55.811	 Loss: 5.13056416
+2025-11-20 14:36:32,635 - root - INFO -   Epoch 13/25	 Time: 58.260	 Loss: 5.05197006
+2025-11-20 14:37:30,192 - root - INFO -   Epoch 14/25	 Time: 57.557	 Loss: 4.97962066
+2025-11-20 14:38:27,741 - root - INFO -   Epoch 15/25	 Time: 57.548	 Loss: 4.91491679
+2025-11-20 14:39:23,564 - root - INFO -   Epoch 16/25	 Time: 55.822	 Loss: 4.86205307
+2025-11-20 14:40:19,634 - root - INFO -   Epoch 17/25	 Time: 56.070	 Loss: 4.80202471
+2025-11-20 14:41:15,906 - root - INFO -   Epoch 18/25	 Time: 56.272	 Loss: 4.75412187
+2025-11-20 14:42:14,990 - root - INFO -   Epoch 19/25	 Time: 59.084	 Loss: 4.70812827
+2025-11-20 14:43:14,074 - root - INFO -   Epoch 20/25	 Time: 59.083	 Loss: 4.48664568
+2025-11-20 14:43:14,074 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2025-11-20 14:44:12,079 - root - INFO -   Epoch 21/25	 Time: 58.005	 Loss: 4.47239109
+2025-11-20 14:45:09,602 - root - INFO -   Epoch 22/25	 Time: 57.523	 Loss: 4.47114278
+2025-11-20 14:46:05,793 - root - INFO -   Epoch 23/25	 Time: 56.191	 Loss: 4.45464512
+2025-11-20 14:47:04,061 - root - INFO -   Epoch 24/25	 Time: 58.267	 Loss: 4.45614372
+2025-11-20 14:48:00,736 - root - INFO -   Epoch 25/25	 Time: 56.675	 Loss: 4.44617101
+2025-11-20 14:48:00,736 - root - INFO - Pretraining time: 1426.910
+2025-11-20 14:48:00,736 - root - INFO - Finished pretraining.
+2025-11-20 14:48:00,736 - root - INFO - Testing autoencoder...
+2025-11-20 14:48:09,022 - root - INFO - Test set Loss: 266.42095496
+2025-11-20 14:48:09,107 - root - INFO - Test set AUC: 90.34%
+2025-11-20 14:48:09,107 - root - INFO - Autoencoder testing time: 8.370
+2025-11-20 14:48:09,107 - root - INFO - Finished testing autoencoder.
+2025-11-20 14:48:09,120 - root - INFO - Training optimizer: adam
+2025-11-20 14:48:09,120 - root - INFO - Training learning rate: 0.0001
+2025-11-20 14:48:09,120 - root - INFO - Training epochs: 25
+2025-11-20 14:48:09,120 - root - INFO - Training learning rate scheduler milestones: (20,)
+2025-11-20 14:48:09,120 - root - INFO - Training batch size: 64
+2025-11-20 14:48:09,120 - root - INFO - Training weight decay: 5e-07
+2025-11-20 14:48:09,122 - root - INFO - Initializing center c...
+2025-11-20 14:48:23,488 - root - INFO - Center c initialized.
+2025-11-20 14:48:23,489 - root - INFO - Starting training...
+2025-11-20 14:48:57,821 - root - INFO -   Epoch 1/25	 Time: 34.333	 Loss: 0.07668696
+2025-11-20 14:49:34,005 - root - INFO -   Epoch 2/25	 Time: 36.184	 Loss: 0.00085298
+2025-11-20 14:57:22,707 - root - INFO -   Epoch 3/25	 Time: 468.702	 Loss: 0.00053594
+2025-11-20 15:45:39,475 - root - INFO -   Epoch 4/25	 Time: 2896.767	 Loss: 0.00043322
+2025-11-20 16:12:33,722 - root - INFO -   Epoch 5/25	 Time: 1614.247	 Loss: 0.00037178
+2025-11-20 16:13:07,620 - root - INFO -   Epoch 6/25	 Time: 33.898	 Loss: 0.00035166
+2025-11-20 16:13:41,336 - root - INFO -   Epoch 7/25	 Time: 33.715	 Loss: 0.00033833
+2025-11-20 16:14:15,467 - root - INFO -   Epoch 8/25	 Time: 34.131	 Loss: 0.00032565
+2025-11-20 16:14:49,794 - root - INFO -   Epoch 9/25	 Time: 34.327	 Loss: 0.00031327
+2025-11-20 16:15:24,560 - root - INFO -   Epoch 10/25	 Time: 34.766	 Loss: 0.00035142
+2025-11-20 16:15:58,967 - root - INFO -   Epoch 11/25	 Time: 34.407	 Loss: 0.00033211
+2025-11-20 16:16:33,560 - root - INFO -   Epoch 12/25	 Time: 34.593	 Loss: 0.00028550
+2025-11-20 16:17:09,345 - root - INFO -   Epoch 13/25	 Time: 35.784	 Loss: 0.00027437
+2025-11-20 16:17:43,664 - root - INFO -   Epoch 14/25	 Time: 34.319	 Loss: 0.00027874
+2025-11-20 16:18:19,303 - root - INFO -   Epoch 15/25	 Time: 35.639	 Loss: 0.00027229
+2025-11-20 16:18:54,452 - root - INFO -   Epoch 16/25	 Time: 35.149	 Loss: 0.00026274
+2025-11-20 16:19:29,120 - root - INFO -   Epoch 17/25	 Time: 34.667	 Loss: 0.00024092
+2025-11-20 16:20:03,090 - root - INFO -   Epoch 18/25	 Time: 33.970	 Loss: 0.00026202
+2025-11-20 16:20:37,679 - root - INFO -   Epoch 19/25	 Time: 34.589	 Loss: 0.00025730
+2025-11-20 16:21:12,111 - root - INFO -   Epoch 20/25	 Time: 34.432	 Loss: 0.00008995
+2025-11-20 16:21:12,112 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2025-11-20 16:21:46,640 - root - INFO -   Epoch 21/25	 Time: 34.528	 Loss: 0.00007736
+2025-11-20 16:22:21,412 - root - INFO -   Epoch 22/25	 Time: 34.772	 Loss: 0.00007494
+2025-11-20 16:22:55,711 - root - INFO -   Epoch 23/25	 Time: 34.299	 Loss: 0.00007337
+2025-11-20 16:23:30,117 - root - INFO -   Epoch 24/25	 Time: 34.405	 Loss: 0.00007194
+2025-11-20 16:24:04,325 - root - INFO -   Epoch 25/25	 Time: 34.207	 Loss: 0.00007356
+2025-11-20 16:24:04,325 - root - INFO - Training time: 5740.836
+2025-11-20 16:24:04,325 - root - INFO - Finished training.
+2025-11-20 16:24:04,325 - root - INFO - Starting testing...
+2025-11-20 16:24:10,051 - root - INFO - Testing time: 5.725
+2025-11-20 16:24:10,127 - root - INFO - Test set AUC: 56.27%
+2025-11-20 16:24:10,127 - root - INFO - Finished testing.
